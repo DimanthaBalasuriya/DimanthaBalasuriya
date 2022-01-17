@@ -1,4 +1,5 @@
-### Hi there 👋, Dimantha Balasuriya
+### Hi there 👋, 
+Dimantha Balasuriya
 #### Backend Software Developer
 Hey i'm Dimantha from Sri Lanka, i'm self taugt software developer. im exploring new technologies and try them. im also following game dev and ui desing for now. so this is me.
 
