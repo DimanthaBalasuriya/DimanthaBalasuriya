@@ -20,5 +20,5 @@ Skills: Java, C/C++, Python, mysql, firebase, tensorflow, keras, hlsl, glsl
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DimanthaBalasuriya&show_icons=true&theme=dark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DimanthaBalasuriya)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DimanthaBalasuriya&theme=dark)  
 
