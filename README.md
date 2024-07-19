@@ -1,11 +1,11 @@
 Dimantha Balasuriya
-#### Backend Software Developer
-Hey i'm Dimantha from Sri Lanka, i'm self taugt software developer. im exploring new technologies and try them. im also following game dev and ui desing for now. so this is me.
+#### Fullstack Software Developer
+Hey i'm Dimantha from Sri Lanka, full time fullsatack engineer, do a passionate in game design, development and UI UX, also a nerd who always love AI
 
-##Skills: Java, C/C++, Python, mysql, firebase, tensorflow, keras, hlsl, glsl
+##Skills: Java, C/C++, Python, mysql, firebase, glsl, unity, unreal engine, open gl, spring boot, spring cloud, kafka, kubernets, docker, figma, UI UX
 
-- 🔭 I’m currently working on Oreo rendering engine 
-- 🌱 I’m currently learning UI/UX and Graphics programming 
+- 🔭 I’m currently learning machine learning 
+- 🌱 I’m currently learning video game development in latest ue5
 - 📫 How to reach me: dimanthabalasuriya@gmail.com 
 
 ##Example of work
